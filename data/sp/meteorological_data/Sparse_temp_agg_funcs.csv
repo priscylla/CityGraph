@@ -1,0 +1,4 @@
+Measu_Name;Temp_Agg_Func
+Precipitacao_Total;sum
+Temperatura_Maxima;max
+Temperatura_Minima;min
